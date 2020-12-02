@@ -1,11 +1,11 @@
 # Churn-Prediction
 Churn Prediction for Telecom Industry using Machine Learning Algorithms
 
-Objective:
+## Objective
 
 To propose a model that helps to predict the churning of customers based on the analysis of their historical data using Machine learning algorithms. 
 
-Steps Performed:
+## Steps Performed
 
 1. Perform a literature review to understand the techniques and research already done in this domain.
 
